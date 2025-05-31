@@ -1,0 +1,32 @@
+
+
+
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\zxgdzxycn
+
+
+
+(Default) 
+
+ErrorControl  1
+
+ImagePath  System32\drivers\ncyxzdgxz.sys
+
+Start  0
+
+Type 1
+
+
+
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\zxgdzxycn\Config
+
+(Default)
+
+
+
+0  0856010186211853
+
+
+D13 1
+
+
+ sc create zxgdzxycn binPath= C:\\Windows\\System32\\drivers\\ncyxzdgxz.sys type= kernel
