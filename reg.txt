@@ -23,7 +23,7 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\zxgdzxycn\Config
 
 
 
-0  0856010186211853
+0  07533101864418556
 
 
 D13 1
